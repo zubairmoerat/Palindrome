@@ -9,5 +9,5 @@ function isPalindrome(string) {
     }
 }
 
-let result = isPalindrome("Madam");
+let result = isPalindrome("Racecar");
 console.log(result);
